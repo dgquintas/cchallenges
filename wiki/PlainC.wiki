@@ -1,0 +1,5 @@
+#summary Stuff about C, the latin of this business.
+#labels Phase-Implementation
+
+= Books =
+[The C Book http://publications.gbdirect.co.uk/c_book/]. Complete and browsable online.
