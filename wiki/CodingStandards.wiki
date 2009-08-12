@@ -2,9 +2,12 @@
 #labels Phase-Implementation
 
 = Introduction =
-In order to unify our coding style, we should refer to -for instance, they look good and sensible enough- the Google Styleguide. 
+In order to unify our coding style, we should stick to a given set of "rules" or "coding guidelines".
+
+= Google Styleguides =
+They look good and sensible enough.
 
 Links for several languages available on their frontpage: http://code.google.com/p/google-styleguide/
 
-= Misc =
+= C++ FAQ Lite =
 There's another really good Q&A-style page on the matter [http://www.parashift.com/c++-faq-lite/coding-standards.html here].
