@@ -2,4 +2,4 @@
 #labels Phase-Implementation
 
 = Books =
-[The C Book http://publications.gbdirect.co.uk/c_book/]. Complete and browsable online.
+[http://publications.gbdirect.co.uk/c_book/ The C Book ]. Complete and browsable online.
