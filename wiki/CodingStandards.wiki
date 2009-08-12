@@ -4,10 +4,17 @@
 = Introduction =
 In order to unify our coding style, we should stick to a given set of "rules" or "coding guidelines".
 
-= Google Styleguides =
-They look good and sensible enough.
+= C++ =
+== Google Styleguides ==
+They look good and sensible enough. [http://google-styleguide.googlecode.com/svn/trunk/cppguide.xml Here].
 
-Links for several languages available on their frontpage: http://code.google.com/p/google-styleguide/
-
-= C++ FAQ Lite =
+== C++ FAQ Lite ==
 There's another really good Q&A-style page on the matter [http://www.parashift.com/c++-faq-lite/coding-standards.html here].
+
+= C =
+The following doc looks good and it's simple enough as to actually read it:
+http://www.psgd.org/paul/docs/cstyle/cstyle.htm
+
+= Python = 
+== Google Styleguides ==
+Again, [http://google-styleguide.googlecode.com/svn/trunk/pyguide.html here].
