@@ -7,8 +7,24 @@ void list_init(List* const list, void (*destroy)(void* data)){
   list->destroy = destroy;
 
   list->size = 0;
+}
+void list_destroy(List* list){
+  ListElement* currElem = list->head;
+  if( currElem ){ //ie, if the list isn't empty
+    ListElement* nextElem = currElem->next;
+
+    while( currElem ){
+      list->destroy( currElem->data );
+      free( currElem );
+      currElem = NULL;
+      currElem = nextElem;
+    }
+  }
+  return;
 
 }
+
+
 void* list_get(const List* const list, int i){
   if( i >= list->size ){
     return NULL;

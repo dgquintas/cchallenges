@@ -50,6 +50,15 @@ typedef struct List_ {
 void list_init(List* const list, void (*destroy)(void *data));
 
 
+/** Destroy list.
+ *
+ * Destroys and frees the resources allocated by @a list.
+ *
+ * @arg list the list.
+ *
+ */
+void list_destroy(List* list);
+
 /** Destroy list */
 
 /** Get element.
