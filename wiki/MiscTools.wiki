@@ -5,8 +5,8 @@
 Some tools that help with development.
 
 = SCT - Software Construction Tools =
-* [http://www.scons.org/ SCons ]
+  * [http://www.scons.org/ SCons ]
 
 = Memory Checkers =
-* [http://valgrind.org/ Valgrind]
+  * [http://valgrind.org/ Valgrind]
  
