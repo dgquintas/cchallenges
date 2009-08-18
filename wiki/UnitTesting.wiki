@@ -1,0 +1,8 @@
+#summary References for Unit Testing
+#labels Phase-Implementation
+
+= Introduction =
+What to use when unit testing under the different languages? To begin with, there's a good summary of the available U-T frameworks [http://en.wikipedia.org/wiki/List_of_unit_testing_frameworks in the almighty wikipedia]
+
+= C++ =
+I think in this case we should stick to [http://code.google.com/p/googletest/ Google's _de facto_ standard]. 
